@@ -2,7 +2,7 @@
 Custom launcher for Clone Hero. Easily edit and add songs, profiles, mods, custom content, and more with this launcher built for all of  your Clone Hero needs.
 
 # Get Clone Hero HERE
-[![Clone Hero](https://github.com/user-attachments/assets/5e4bb35d-f736-4da4-8d87-12b4abbbbb50)](https://clonehero.net/)
+[![Clone Hero](https://github.com/user-attachments/assets/b7588b10-6794-429e-ad12-0a6c0f329b80)](https://clonehero.net/)
 
 # Working Features
 ## Launch Game
