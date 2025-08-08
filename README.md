@@ -1,4 +1,4 @@
-# HJ2208 Clone Hero Launcher
+# Whatsername's Clone Hero Launcher
 Custom launcher for Clone Hero. Easily edit and add songs, profiles, mods, custom content, and more with this launcher built for all of  your Clone Hero needs.
 
 # Get Clone Hero HERE
